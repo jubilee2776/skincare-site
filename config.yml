@@ -1,0 +1,101 @@
+baseURL: https://spiffy-daifuku-b2b955.netlify.app/
+languageCode: en-us
+title: Ageless Skin Guide
+paginate: 5
+theme: PaperMod
+
+params:
+  env: production
+  title: Ageless Skin Guide
+  description: "Bridging Traditional Chinese Medicine wisdom with modern dermatology for radiant, healthy skin over 40"
+  keywords: [TCM, skincare, mature skin, Korean beauty, dampness, holistic beauty]
+  author: "Joel Djong"
+  
+  # SEO
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  
+  # Comments (optional - can add later)
+  comments: false
+  
+  # Social
+  assets:
+    favicon: ""
+    favicon16x16: ""
+    favicon32x32: ""
+    apple_touch_icon: ""
+    safari_pinned_tab: ""
+
+  label:
+    text: "Ageless Skin Guide"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # Profile mode (homepage)
+  profileMode:
+    enabled: true
+    title: "Ageless Skin Guide"
+    subtitle: "Where TCM wisdom meets dermatological science. Evidence-based skincare for mature, dampness-prone skin."
+    imageUrl: ""
+    imageTitle: ""
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Start With Dampness
+        url: tcm-foundations/4-types-dampness
+      - name: Explore Korean Skincare
+        url: korean-skincare
+      - name: Ingredient Guides
+        url: ingredients
+
+  # Social links (update with yours)
+  socialIcons:
+    - name: instagram
+      url: "https://instagram.com/yourhandle"
+    - name: email
+      url: "mailto:jubilee2776@gmail.com"
+    - name: rss
+      url: index.xml
+
+  analytics:
+    google:
+      SiteVerificationTag: "YOUR-GOOGLE-VERIFICATION-CODE"
+    bing:
+      SiteVerificationTag: "YOUR-BING-VERIFICATION-CODE"
+
+menu:
+  main:
+    - identifier: tcm
+      name: TCM Foundations
+      url: /tcm-foundations/
+      weight: 10
+    - identifier: ingredients
+      name: Ingredients
+      url: /ingredients/
+      weight: 20
+    - identifier: korean
+      name: Korean Skincare
+      url: /korean-skincare/
+      weight: 30
+    - identifier: guides
+      name: Guides
+      url: /guides/
+      weight: 40
+    - identifier: reviews
+      name: Reviews
+      url: /reviews/
+      weight: 50
+    - identifier: formulator
+      name: Formulator's Corner
+      url: /formulator/
+      weight: 60
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 100
