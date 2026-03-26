@@ -1,4 +1,4 @@
-baseURL = 'https://gracefulskincare.netlify.app/'
+baseURL = 'https://gracefulskin.netlify.app/'
 languageCode = 'en-us'
 title = 'Ageless Skin Guide'
 theme = 'PaperMod'
