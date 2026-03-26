@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://spiffy-daifuku-b2b955.netlify.app/sitemap.xml
