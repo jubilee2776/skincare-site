@@ -1,4 +1,4 @@
-baseURL = 'https://spiffy-daifuku-b2b955.netlify.app/'
+baseURL = 'https://gracefulskincare.netlify.app/'
 languageCode = 'en-us'
 title = 'Ageless Skin Guide'
 theme = 'PaperMod'
@@ -13,7 +13,7 @@ buildExpired = false
   title = 'Ageless Skin Guide'
   description = 'Bridging TCM wisdom with dermatological science for radiant skin over 40'
   keywords = ['skincare', 'TCM', 'dampness', 'mature skin']
-  author = 'Your Name'
+  author = 'Ageless Skin Guide'
   DateFormat = 'January 2, 2006'
   defaultTheme = 'auto'
   disableThemeToggle = false
@@ -41,7 +41,7 @@ buildExpired = false
 
 [[params.socialIcons]]
   name = 'email'
-  url = 'mailto:your@email.com'
+  url = 'mailto:jubilee2776@gmail.com'
 
 [[params.socialIcons]]
   name = 'github'
