@@ -17,7 +17,7 @@ cover:
 
 # Skincare Ingredient Glossary
 
-{{<figure src="/images/TCMHerbalLab_800.png" width="400" >}}
+{{<figure src="/images/tcmherballab_800.png" width="400" >}}
 
 Here are the ingredients grouped by the specific skin concerns they are most effective at treating.
 
@@ -87,7 +87,7 @@ Naturally antibacterial; heals pimples and prevents new ones.
 
 ---
 
-[![Graceful Skin Logo](/images/GracefulSkinLogoWide_800.png)](https://collshp.com/gracefulskin?view=storefront)
+[![Graceful Skin Logo](/images/gracefulskinlogowide_800.png)](https://collshp.com/gracefulskin?view=storefront)
 
 > **Disclosure:** *This post contains affiliate links. As a Shopee Affiliate, I earn from qualifying purchases at no extra cost to you. I only recommend products I believe in that follow Traditional Chinese Medicine (TCM) principles. However, please note: TCM concepts are based on traditional practices and may differ from modern medical science. These products are not intended to diagnose, treat, cure, or prevent any disease. Prices, formulations, and availability are managed by the merchants and are subject to change. If you have specific skin conditions or health concerns, please consult a qualified healthcare or TCM practitioner before use.*
 
