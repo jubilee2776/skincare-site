@@ -9,7 +9,7 @@ ShowToc: true
 TocOpen: true
 draft: false
 cover:
-    image: "/images/TCMHerbalLab_800.png"
+    image: "/images/tcmherballab_800.png"
     alt: "TCM Herbal Lab and Ingredients"
     caption: "The alchemy of nature and science: Exploring the potent botanical extracts that power modern Eastern skincare."
     relative: false
